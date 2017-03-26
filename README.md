@@ -1,2 +1,2 @@
-# hellow-world
-Meu primeiro repositorio no github.
+# hello-world
+Ola pessoal esse é meu primeiro repositorio, ou quase isso rsrs.
